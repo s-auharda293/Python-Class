@@ -1,0 +1,5 @@
+class Sagarmatha:
+    def hello(self):
+        print("Sagarmatha")
+sg=Sagarmatha()
+sg.hello()
